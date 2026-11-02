@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![trophy](https://github-profile-trophy-unserori.vercel.app/?username=dhardtke)
+![trophy](https://github-profile-trophy-unserori.vercel.app/?username=dhardtke&theme=oldie)
